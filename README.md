@@ -1,2 +1,2 @@
 # CFD-using-MATLAB
-Program written in MATLAB for CFD analysis
+Programs written in MATLAB for CFD analysis
